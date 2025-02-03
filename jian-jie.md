@@ -9,6 +9,7 @@ NiHo API 是一个基础 API 调用镜像服务，一般用于网站 AI API 接�
 
 在您开始使用 NiHo API 服务时，您需要知道：
 
+* 使用 NiHo API 需要您自行准备 API Key
 * NiHo API 并不提供 AI 服务，只是做 API 转发，您需要支付对应的钱给到 AI 提供商
 * NiHo API 绝对 100% 免费
 * NiHo API 因为是免费服务，可能会出现服务短暂掉线的可能
